@@ -1,11 +1,11 @@
 {
-    "name": "VLESS",
-    "description": "Deploy VLESS and Trojan on Heroku.",
+    "name": "S",
+    "description": "s",
     "keywords": ["VLESS"],
     "env": {
         "ID": {
             "description": "VLESS ID, use uuid generator",
-            "value": "6ffb20ab-ab4e-4b7d-99f6-379ffce13a74"
+            "value": "6bc51c7e-95f5-4516-9e4b-a121291816ea"
         }
     },
     "repository": "",
